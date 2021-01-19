@@ -173,8 +173,8 @@ function paint_gaugeChart(washing_freq){
             value: washing_freq,
             title: { text: "Belly Button Washing Frequency" },
             type: "indicator",
-            mode: "gauge+number",
-            range: [0, 9],
+            mode: "gauge+number"
+       
             
         }
     ];
